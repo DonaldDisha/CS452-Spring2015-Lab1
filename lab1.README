@@ -1,1 +1,6 @@
-name, date, description
+Donald Disha
+1/30/2015
+- I solved my problem through the use of indices and having my index increment every time I click, and 
+  when the use clicks after the third shape, the index is set to zero and the first shape is shown again.
+  I added an event listener for my clicks and had my shape render according to what index I was on so that
+  it could use that set of points.
